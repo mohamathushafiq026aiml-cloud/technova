@@ -1,0 +1,6 @@
+{
+  "name": "TechNova 2026 - Inter-College Technology Event",
+  "description": "Premium, modern, highly animated event registration website for TechNova 2026 at Sir Issac Newton College of Engineering & Technology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
