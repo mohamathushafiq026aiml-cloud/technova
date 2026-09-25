@@ -1,0 +1,6 @@
+{
+  "name": "TechNova 2026 - Inter-College Technology Event",
+  "description": "TechNova 2026 — Inter-College Technology Event at Sir Issac Newton College of Engineering & Technology, Nagapattinam. Build the next big thing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
